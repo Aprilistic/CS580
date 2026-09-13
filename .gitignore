@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local documents and generated figures (keep this repository code-only)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+.DS_Store
